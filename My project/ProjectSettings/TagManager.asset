@@ -47,6 +47,15 @@ TagManager:
   - name: Platform
     uniqueID: 670385659
     locked: 0
+  - name: Foreground
+    uniqueID: 257035559
+    locked: 0
+  - name: Trees
+    uniqueID: 1577093241
+    locked: 0
   - name: Player
     uniqueID: 121705307
+    locked: 0
+  - name: mushroom
+    uniqueID: 433859153
     locked: 0
